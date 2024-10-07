@@ -1,4 +1,4 @@
-# credit-risk
+# Credit Risk Prediction
 ** Site under update **
 
 - Built a credit risk prediction model with an 85% accuracy rate, providing actionable insights to ensure financial stability in the banking sector.
@@ -7,3 +7,6 @@
 
 ## LinkedIn
 [Ritvik Vasantha Kumar](https://www.linkedin.com/in/ritvik-vk/)
+
+## Github Profile
+[ritvikvk-ai](https://github.com/ritvikvk-ai)
